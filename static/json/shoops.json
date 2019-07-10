@@ -1,0 +1,9 @@
+[{ "id": 1,
+  "icon": "static/img/seller/dicos.png",
+  "name": "德克士","rated":"23"},{ "id": 2,
+    "icon": "static/img/seller/coco.webp",
+    "name": "COCO","rated":"56"},{ "id": 3,
+      "icon": "static/img/seller/wanzaimatou.png",
+      "name": "湾仔码头饺子444","rated":"47"},{"id": 4,
+        "icon": "static/img/seller/dawanluroufan.webp",
+        "name": "大碗卤肉饭","rated":"86"}]
